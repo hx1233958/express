@@ -1,0 +1,1 @@
+{"version":2,"name":"Ada","builds":[{"src":"**/*.js","use":"@now/node"}]}
